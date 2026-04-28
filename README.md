@@ -1,0 +1,1 @@
+An intelligent support agent built with Python and the Groq Llama 3.1 model. This system acts as a reasoning engine to route customer queries, retrieve policy information from a knowledge base, and prioritize support tickets using a weighted logic system.
